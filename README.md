@@ -24,3 +24,8 @@ Key Analysis :
     -Product Analysis
     -Store Performance
     -Business Insights
+
+Power BI Dashbaord :
+![Dashboard Page 1](Bike%20store%20dashboard%20page%201.png)
+![Dashbard Page 2](Bike%20store%20dashboard%20page%202.png)
+![Dashboard Page 3](Bike%20store%20dashboard%20page%203.png)
