@@ -29,3 +29,10 @@ Power BI Dashbaord :
 ![Dashboard Page 1](Bike%20store%20dashboard%20page%201.png)
 ![Dashbard Page 2](Bike%20store%20dashboard%20page%202.png)
 ![Dashboard Page 3](Bike%20store%20dashboard%20page%203.png)
+
+Key Business Insights :
+1.Sales Peformance : Analyzed total revenue of 6.66M across 1,615 orders.
+2.Customer Analysis : Identified 1,445 active customers and analyzed customer purchasing behavior.
+3.Product Analysis : Identified top-performing products based on revenue contribution.
+4.Monthly Trends : Analyzed monthly sales trends to undestand seasonal performance.
+5.Business Recommendations : Providing insights to improve sales performace,customer retention and business growth.
